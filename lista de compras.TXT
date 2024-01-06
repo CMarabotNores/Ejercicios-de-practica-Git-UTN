@@ -1,6 +1,7 @@
-6 manzanas
+5 manzanas
 3 peras
 8 bananas
 1 kilo de arroz
 miel
-fideos
+carne
+pollo
